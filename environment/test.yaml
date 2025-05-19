@@ -1,0 +1,8 @@
+gmail:
+  urls:
+    login page: https://mail.google.com/
+  login:
+    valid email:
+      email: john.stone.pytest@gmail.com
+      password: gAAAAABoKcpq8Qu2kUdsBx1cBlY913D89nrGxI7Awc_Y8h3nK2EDAX0cTkuirGlc2zPRmxYkmtLtptiOt6QLPlrhgYNIqw3rdJ8l_LGnJcuFrm2nPVjPuO8=
+
